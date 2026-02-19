@@ -1,120 +1,93 @@
-📊 Bank Customer Churn Analysis Dashboard
-Recommended Structure and Overview
-1. Project Title / Headline
+# 📊 Bank Customer Churn Analysis Dashboard
 
-Bank Customer Churn Analysis & Retention Insights Dashboard
+---
+
+## 1️⃣ Project Title / Headline
+
+### Bank Customer Churn Analysis & Retention Insights Dashboard  
 An interactive Power BI dashboard designed to analyze customer churn patterns, identify high-risk segments, and provide actionable business insights to improve customer retention and revenue protection.
 
-2. Short Description / Purpose
+---
 
-This dashboard analyzes 10,000 bank customer records to understand why customers leave and which segments are at higher churn risk.
+## 2️⃣ Short Description / Purpose
 
-It helps stakeholders monitor churn KPIs, segment customers based on risk factors, and support strategic retention planning.
+This dashboard analyzes **10,000 bank customer records** to understand why customers leave and which segments are at higher churn risk.
 
-3. Tech Stack
+It enables stakeholders to monitor churn KPIs, segment customers based on risk factors, and support strategic retention planning.
+
+---
+
+## 3️⃣ Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
-Power BI Desktop – Data visualization and dashboard development
+- **Power BI Desktop** – Data visualization and dashboard development  
+- **DAX (Data Analysis Expressions)** – KPI calculations and churn metrics  
+- **Microsoft Excel** – Data cleaning and preprocessing  
+- **Data Modeling** – Relationship building between attributes and churn status  
+- **File Format** – `.pbix` for development and `.png` for dashboard preview  
 
-DAX (Data Analysis Expressions) – KPI calculations and churn metrics
+---
 
-Microsoft Excel – Data cleaning and preprocessing
+## 4️⃣ Data Source
 
-Data Modeling – Relationship building between customer attributes and churn status
+Dataset includes **10,000 bank customers** with attributes such as:
 
-File Format – .pbix for development and .png for dashboard preview
+- Credit Score  
+- Geography (France, Germany, Spain)  
+- Gender  
+- Age  
+- Tenure  
+- Balance  
+- Estimated Salary  
+- Membership Status  
+- Churn Status  
 
-4. Data Source
+---
 
-Dataset includes 10,000 bank customers with attributes such as:
+## 5️⃣ Features / Highlights
 
-Credit Score
+### 🔹 Business Problem
 
-Geography (France, Germany, Spain)
+Customer churn directly impacts profitability and customer lifetime value.  
+Banks require analytical insights to identify churn drivers and intervene early.
 
-Gender
+---
 
-Age
+### 🔹 Goal of the Dashboard
 
-Tenure
+- Measure overall churn rate  
+- Identify high-risk customer segments  
+- Enable interactive filtering by region, gender, and credit segment  
+- Support data-driven retention strategies  
 
-Balance
+---
 
-Estimated Salary
+### 🔹 Walkthrough of Key Visuals
 
-Membership Status
+- **KPI Cards** – Total Customers, Churn Rate (7.36%), Total Balance, High-Risk Segment  
+- **Churn by Credit Segment** – Poor credit segment shows highest churn (8.07%)  
+- **Churn by Membership Status** – Highlights higher churn among non-members  
+- **Churn by Tenure** – Analyzes retention patterns across tenure years  
+- **Geographical Analysis** – Regional churn comparison  
 
-Churn Status
+---
 
-The data was structured for segmentation analysis and KPI reporting.
+### 🔹 Business Impact & Insights
 
-5. Features / Highlights
-🔹 Business Problem
+- Identified **7.36% overall churn rate**  
+- Discovered credit score and membership status as major churn drivers  
+- Highlighted **6.32% high-risk customers** for targeted intervention  
+- Enabled segmentation-based retention strategy  
 
-Customer churn directly impacts profitability and customer lifetime value.
-Banks need a clear analytical view to identify churn drivers and intervene early.
+---
 
-🔹 Goal of the Dashboard
+## 6️⃣ Outcome
 
-To deliver an interactive visual tool that:
+This project demonstrates how interactive dashboards and KPI-driven analysis can help financial institutions reduce churn, protect revenue, and support data-backed decision-making.
 
-Measures overall churn rate
+---
 
-Identifies high-risk customer segments
-
-Enables filtering by region, gender, and credit segment
-
-Supports data-driven retention strategies
-
-🔹 Walkthrough of Key Visuals
-
-• KPI Cards (Top Panel)
-
-Total Customers: 10,000
-
-Churned Customers: 736
-
-Churn Rate: 7.36%
-
-Total Balance: 390.83M
-
-High-Risk Customers: 6.32%
-
-• Churn by Credit Segment
-Identifies Poor credit segment as highest churn (8.07%).
-
-• Churn by Membership Status
-Highlights higher churn among non-members compared to members.
-
-• Churn by Tenure
-Analyzes customer retention patterns across different tenure years.
-
-• Geographical Churn Analysis
-Regional breakdown of churn across France, Germany, and Spain.
-
-🔹 Business Impact & Insights
-
-Identified 7.36% overall churn rate affecting revenue retention
-
-Discovered credit score and membership status as major churn drivers
-
-Highlighted 6.32% high-risk customers for targeted intervention
-
-Enabled segmentation-based retention planning
-
-6. Outcome
-
-This project demonstrates how interactive dashboards and KPI-driven analysis can help financial institutions:
-
-Reduce customer churn
-
-Protect revenue streams
-
-Improve customer engagement strategies
-
-Support data-backed business decisions
-
-7. Dashboard Preview
-
-(Add your dashboard screenshot here)
+### 6.	Screenshots / Demos
+Show what the dashboard looks like. - ![Alt text](https://github.com/chandana444s/Bank-Churn-Analysis-Retention-Insights-Dashboard/blob/main/Bankchurnanalysis.pbit)
+Example: ![Dashboard Preview](https://github.com/chandana444s/Bank-Churn-Analysis-Retention-Insights-Dashboard/blob/main/Snapshotofdashboard.png)
