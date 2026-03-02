@@ -122,5 +122,6 @@ MCA Graduate | Data Analytics Enthusiast
 ⭐ If you found this project insightful, feel free to connect!
 
 ### 6.	Screenshots / Demos
-Show what the dashboard looks like. - ![Alt text](https://github.com/chandana444s/Bank-Churn-Analysis-Retention-Insights-Dashboard/blob/main/Bankchurnanalysis.pbit)
-Example: ![Dashboard Preview](https://github.com/chandana444s/Bank-Churn-Analysis-Retention-Insights-Dashboard/blob/main/Snapshotofdashboard.png)
+Show what the dashboard looks like. - [Link](https://github.com/chandana444s/Bank-Churn-Analysis-Retention-Insights-Dashboard/blob/main/Customer%20Churn%20%26%20Revenue%20Risk%20Dashboard.pbit)
+
+Example: ![Dashboard Preview](https://github.com/chandana444s/Bank-Churn-Analysis-Retention-Insights-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
