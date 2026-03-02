@@ -1,92 +1,125 @@
-# 📊 Bank Customer Churn Analysis Dashboard
+# 📊 Customer Churn & Revenue Risk Dashboard – Banking Sector
+### Banking Sector | Power BI Project  
 
 ---
 
-## 1️⃣ Project Title / Headline
+## Project Title / Headline
 
-### Bank Customer Churn Analysis & Retention Insights Dashboard  
+### Customer Churn & Revenue Risk Dashboard – Banking Sector
 An interactive Power BI dashboard designed to analyze customer churn patterns, identify high-risk segments, and provide actionable business insights to improve customer retention and revenue protection.
 
 ---
 
-## 2️⃣ Short Description / Purpose
+## 📌 Project Overview  
 
-This dashboard analyzes **10,000 bank customer records** to understand why customers leave and which segments are at higher churn risk.
+This project analyzes customer churn behavior and revenue exposure using a structured banking dataset of 10,000+ customers.  
 
-It enables stakeholders to monitor churn KPIs, segment customers based on risk factors, and support strategic retention planning.
+The objective is to identify high-risk customer segments, quantify revenue at risk, and generate actionable retention insights through interactive dashboard reporting.
 
----
-
-## 3️⃣ Tech Stack
-
-The dashboard was built using the following tools and technologies:
-
-- **Power BI Desktop** – Data visualization and dashboard development  
-- **DAX (Data Analysis Expressions)** – KPI calculations and churn metrics  
-- **Microsoft Excel** – Data cleaning and preprocessing  
-- **Data Modeling** – Relationship building between attributes and churn status  
-- **File Format** – `.pbix` for development and `.png` for dashboard preview  
+The dashboard is built in **Power BI**, focusing on data validation, KPI tracking, and business-driven storytelling.
 
 ---
 
-## 4️⃣ Data Source
+## 🎯 Business Problem  
 
-Dataset includes **10,000 bank customers** with attributes such as:
+Customer churn significantly impacts revenue stability in the banking sector.  
 
-- Credit Score  
-- Geography (France, Germany, Spain)  
-- Gender  
-- Age  
-- Tenure  
-- Balance  
-- Estimated Salary  
-- Membership Status  
-- Churn Status  
+This project addresses the following key questions:
+
+- Which customer segments show the highest churn risk?  
+- How much revenue is exposed to high-risk customers?  
+- Which geographies and age groups require retention prioritization?  
+- How does product holding behavior influence churn probability?  
 
 ---
 
-## 5️⃣ Features / Highlights
+## 🛠 Tools & Technologies  
 
-### 🔹 Business Problem
-
-Customer churn directly impacts profitability and customer lifetime value.  
-Banks require analytical insights to identify churn drivers and intervene early.
-
----
-
-### 🔹 Goal of the Dashboard
-
-- Measure overall churn rate  
-- Identify high-risk customer segments  
-- Enable interactive filtering by region, gender, and credit segment  
-- Support data-driven retention strategies  
+- **Power BI**  
+- **DAX (Data Analysis Expressions)**  
+- **Advanced Excel**  
+- Data Cleaning & Validation Techniques  
+- KPI Modeling & Business Reporting  
 
 ---
 
-### 🔹 Walkthrough of Key Visuals
+## 📂 Dataset Summary  
 
-- **KPI Cards** – Total Customers, Churn Rate (7.36%), Total Balance, High-Risk Segment  
-- **Churn by Credit Segment** – Poor credit segment shows highest churn (8.07%)  
-- **Churn by Membership Status** – Highlights higher churn among non-members  
-- **Churn by Tenure** – Analyzes retention patterns across tenure years  
-- **Geographical Analysis** – Regional churn comparison  
+- 10,002 customer records  
+- Demographic attributes (Age Group, Geography)  
+- Behavioral attributes (Number of Products, Active Member Status)  
+- Revenue & Churn indicators  
 
----
-
-### 🔹 Business Impact & Insights
-
-- Identified **7.36% overall churn rate**  
-- Discovered credit score and membership status as major churn drivers  
-- Highlighted **6.32% high-risk customers** for targeted intervention  
-- Enabled segmentation-based retention strategy  
+Data was cleaned, validated, and structured to ensure reporting accuracy and consistency.
 
 ---
 
-## 6️⃣ Outcome
+## 📊 Executive KPIs  
 
-This project demonstrates how interactive dashboards and KPI-driven analysis can help financial institutions reduce churn, protect revenue, and support data-backed decision-making.
+The dashboard tracks:
+
+- **Total Customers**
+- **Churn Rate (%)**
+- **Churned Customers**
+- **Total Revenue**
+- **Revenue at Risk**
 
 ---
+
+## 🔍 Key Analytical Insights  
+
+- **20.38% overall churn rate** observed across the customer base.  
+- Customers aged **45–59** showed the highest churn rate (49.45%).  
+- Customers holding only **1 product** had significantly higher churn risk (14.1%) compared to multi-product customers (0.6%).  
+- **247.68M revenue identified as Revenue at Risk.**  
+- Germany contributed the highest churn-driven revenue exposure.  
+
+---
+
+## 💡 Business Impact  
+
+- Identified high-risk segments contributing to substantial revenue exposure.  
+- Highlighted cross-sell opportunities to reduce churn probability.  
+- Provided structured reporting framework for retention strategy decisions.  
+- Enabled leadership-level visibility into financial risk distribution.  
+
+---
+
+## 📈 Dashboard Features  
+
+✔ Executive KPI cards  
+✔ Churn analysis by Geography, Age Group & Product Count  
+✔ Revenue Risk segmentation  
+✔ Interactive slicers for dynamic filtering  
+✔ Tooltip-based customer volume insights  
+✔ Clean, executive-style layout  
+
+---
+
+## 🚀 Project Outcome  
+
+This project demonstrates:
+
+- End-to-end data handling  
+- Data cleansing & validation  
+- DAX measure creation  
+- KPI-driven dashboard design  
+- Business-oriented insight storytelling  
+- Revenue risk quantification  
+
+---
+
+## 👩‍💻 Author  
+
+**Chandana S**  
+MCA Graduate | Data Analytics Enthusiast  
+
+🔗 LinkedIn: https://www.linkedin.com/in/chandana-s-821a502b2/  
+🌐 Portfolio: https://chandana-s-portfolio-website.vercel.app/  
+
+---
+
+⭐ If you found this project insightful, feel free to connect!
 
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like. - ![Alt text](https://github.com/chandana444s/Bank-Churn-Analysis-Retention-Insights-Dashboard/blob/main/Bankchurnanalysis.pbit)
